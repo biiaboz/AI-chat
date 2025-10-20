@@ -1,0 +1,18 @@
+# .NET
+**/bin/
+**/obj/
+.vs/
+*.user
+*.suo
+
+# Node/Frontend
+node_modules/
+dist/
+build/
+
+# Python cache
+__pycache__/
+
+# Veritabanı ve derleme çıktıları
+*.db
+/out/
